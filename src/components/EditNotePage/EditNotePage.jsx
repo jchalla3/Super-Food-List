@@ -40,7 +40,7 @@ class EditNotePage extends Component {
                         />
                     </div>
 
-                    <label>Done?</label>
+                    <label>Finish</label>
                     <input
                         type="checkbox"
                         name="complete"

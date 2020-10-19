@@ -6,8 +6,8 @@ function NotepadPage(props) {
     return (
         <>
             <div className="NotepadPage-grid">
-                {props.foods.map(food => (
-                    <NotepadItem user={props.user} food={food} key={food._id} handleDeleteFood={props.handleDeleteFood} />
+                {props.notes.map(note => (
+                    <NotepadItem user={props.user} note={note} key={note._id} handleDeleteNote={props.handleDeleteNote} />
                 ))}
             </div>
         </>

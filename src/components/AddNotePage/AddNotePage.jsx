@@ -25,7 +25,7 @@ class AddNotePage extends Component {
     render() {
         return (
             <div className="flex">
-                <h1>Add Note</h1>
+                <h1>Add Food</h1>
                 <form ref={this.formRef} autoComplete="off" onSubmit={this.handleSubmit}>
                     <div className="form-group">
 
@@ -42,7 +42,7 @@ class AddNotePage extends Component {
                         type="submit"
                         className="btn"
                         disabled={this.state.invalidForm}>
-                        ADD NOTE </button>
+                        ADD FOOD HERE </button>
                 </form>
             </div>
         );
