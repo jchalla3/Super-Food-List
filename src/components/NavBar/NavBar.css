@@ -1,7 +1,7 @@
 .NavBar-welcome {
-    color: grey;
+    color: white;
   }
 
 .NavBar {
-    font-family: 'Chilanka', cursive;
+    font-family: 'Courier New', 'Courier', 'monospace'
 }
