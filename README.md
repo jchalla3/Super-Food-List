@@ -1,5 +1,5 @@
 ## Super Food List :smile:
-An tool developed to help you keep track of your grocery list! Add, remove and edit your list of food at your need.
+A tool developed to help you keep track of your grocery list! Add, remove and edit your list of food at your need.
 
 ## Screenshots
 
